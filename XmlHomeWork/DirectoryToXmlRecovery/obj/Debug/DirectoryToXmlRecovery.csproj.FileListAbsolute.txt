@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\bin\Debug\DirectoryToXmlRecovery.exe.config
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\bin\Debug\DirectoryToXmlRecovery.exe
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\bin\Debug\DirectoryToXmlRecovery.pdb
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\obj\Debug\DirectoryToXmlRecovery.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\obj\Debug\DirectoryToXmlRecovery.exe
+C:\Users\Owner\source\repos\XmlHomeWork\DirectoryToXmlRecovery\obj\Debug\DirectoryToXmlRecovery.pdb
